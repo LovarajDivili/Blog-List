@@ -1,0 +1,9 @@
+.blogs-list-section {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0px;
+  margin-left: 16px;
+  margin-right: 16px;
+}

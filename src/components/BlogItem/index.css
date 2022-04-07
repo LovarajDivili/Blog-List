@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.blog-item {
+  display: flex;
+  flex-direction: column;
+}
+.post-date-section {
+  display: flex;
+  justify-content: space-between;
+}
+.post-count {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #12022f;
+  font-weight: 500;
+}
+.post-date {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #616e7c;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #616e7c;
+}
+.hr-line {
+  width: 100%;
+}
